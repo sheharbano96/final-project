@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://sheharbano96.github.io/final-project/annotations/f9e3869ca8f5bd959190b6fd91ceb73d.json", "https://sheharbano96.github.io/final-project/annotations/88962811fc3f81a8dae8aa7c18f49538.json", "https://sheharbano96.github.io/final-project/annotations/345249f6786f2b4bab393e1b9a182613.json", "https://sheharbano96.github.io/final-project/annotations/510efdedece4f5cea63c2841fcad50bb.json", "https://sheharbano96.github.io/final-project/annotations/30a5bf0e4ec4d131e89785c9c878f3c7.json", "https://sheharbano96.github.io/final-project/annotations/9d68379ac6811d998c6f65eb148af9f8.json" ],
+  "otherContent" : [ "https://sheharbano96.github.io/final-project/annotations/f9e3869ca8f5bd959190b6fd91ceb73d.json", "https://sheharbano96.github.io/final-project/annotations/88962811fc3f81a8dae8aa7c18f49538.json", "https://sheharbano96.github.io/final-project/annotations/345249f6786f2b4bab393e1b9a182613.json", "https://sheharbano96.github.io/final-project/annotations/510efdedece4f5cea63c2841fcad50bb.json", "https://sheharbano96.github.io/final-project/annotations/30a5bf0e4ec4d131e89785c9c878f3c7.json", "https://sheharbano96.github.io/final-project/annotations/9d68379ac6811d998c6f65eb148af9f8.json", "https://sheharbano96.github.io/final-project/annotations/0ef6fbd93b8ee766b8d56b247d8eab7e.json" ],
   "@id" : "https://sheharbano96.github.io/final-project/annotations/collection.json",
   "label" : "All annotations loaded in sheharbano96/final-project project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
