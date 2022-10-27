@@ -222,26 +222,26 @@
     "@id" : "http://example.org/iiif/book1/range/photo2",
     "@type" : "sc:Range",
     "label" : "Chamba Bridge on the Ravi",
-    "canvases" : [ "http://afded705-20b9-4429-9c06-46c5fe2d6507" ]
+    "canvases" : [ "http://9705a906-4aa3-448b-b091-9a4c4ac90f35" ]
   }, {
     "@id" : "http://example.org/iiif/book1/range/photo3",
     "@type" : "sc:Range",
     "label" : "Chamba Valley",
-    "canvases" : [ "http://0978575b-69b3-4636-91a5-a20202f9ac10" ]
+    "canvases" : [ "http://1332dc08-7002-496e-85d2-83a32103a3c1" ]
   }, {
     "@id" : "http://example.org/iiif/book1/range/photo4",
     "@type" : "sc:Range",
     "label" : "Chamba Valley",
-    "canvases" : [ "http://47dc3c0b-d4b4-4990-9752-5ea27922fa85" ]
+    "canvases" : [ "http://7fc12127-3b73-4ce6-90da-c540f55a1f3f" ]
   }, {
     "@id" : "http://example.org/iiif/book1/range/photo5",
     "@type" : "sc:Range",
     "label" : "Chamba Bridge on the Ravi",
-    "canvases" : [ "http://ac38aab1-e43e-4914-a83f-6da305f4f6de" ]
+    "canvases" : [ "http://3ff8f06d-9fbe-4190-8380-5f857cf39350" ]
   }, {
     "@id" : "http://example.org/iiif/book1/range/photo6",
     "@type" : "sc:Range",
     "label" : "The Balayn Pass into Valley of the Ravee",
-    "canvases" : [ "http://b644cfdb-c7a5-497c-91b0-d6b5485af29e" ]
+    "canvases" : [ "http://570a88c9-78a7-431a-b76f-a9a8e2bcb776" ]
   } ]
 }
