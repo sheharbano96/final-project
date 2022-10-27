@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 11,
+    "height" : 14
+  }, {
+    "width" : 22,
+    "height" : 27
+  }, {
+    "width" : 43,
+    "height" : 54
+  }, {
+    "width" : 85,
+    "height" : 107
+  }, {
+    "width" : 170,
+    "height" : 214
+  }, {
+    "width" : 339,
+    "height" : 428
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 339,
+  "@id" : "https://sheharbano96.github.io/final-project/images/PortraitofSamuelBourne",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 428
+}
