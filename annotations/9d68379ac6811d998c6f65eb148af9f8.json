@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">Photograph, 'Chumba, Bridge on the Ravee from south', albumen print, Samuel Bourne, India, 1860s. Photograph shows a view of a bridge. There is a rocky bank protruding from the right and a hillside beyond the bridge.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">Photograph, 'Chumba, Bridge on the Ravee from south', albumen print, Samuel Bourne, India, 1860s. Photograph shows a view of a bridge. There is a rocky bank protruding from the right and a hillside beyond the bridge.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105984981585337158447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T23:14:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666912440317",
+    "dcterms:modified" : "2022-10-27T23:14:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://sheharbano96.github.io/final-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=243,103,2099,1731"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M243.2478,103.02636h1049.51318v0h1049.51318v865.71705v865.71705h-1049.51318h-1049.51318v-865.71705z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_39a19f6d-e38f-4dd8-8e76-4031096c5611\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ac38aab1-e43e-4914-a83f-6da305f4f6de"
+    } ]
+  } ],
+  "@id" : "https://sheharbano96.github.io/final-project/annotations/9d68379ac6811d998c6f65eb148af9f8.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
