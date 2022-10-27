@@ -1,0 +1,179 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://sheharbano96.github.io/final-project/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "The Balayn Pass into Valley of the Ravee",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Victoria and Albert Museum",
+  "sequences" : [ {
+    "@id" : "http://b5f9a3ff-87df-482d-a5f8-aef1d23a8e90",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://96d96f01-c1f0-4754-a5c5-03507083f53d",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1982,
+      "width" : 2500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://492a1c61-fc0e-47b5-b91a-5c4c5ec7821e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sheharbano96.github.io/final-project/images/2017KC4927/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sheharbano96.github.io/final-project/images/2017KC4927",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1982,
+          "width" : 2500
+        },
+        "on" : "http://96d96f01-c1f0-4754-a5c5-03507083f53d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://afded705-20b9-4429-9c06-46c5fe2d6507",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1972,
+      "width" : 2500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9705a906-4aa3-448b-b091-9a4c4ac90f35",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sheharbano96.github.io/final-project/images/2017KC4925/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sheharbano96.github.io/final-project/images/2017KC4925",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1972,
+          "width" : 2500
+        },
+        "on" : "http://afded705-20b9-4429-9c06-46c5fe2d6507"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0978575b-69b3-4636-91a5-a20202f9ac10",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1984,
+      "width" : 2500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1332dc08-7002-496e-85d2-83a32103a3c1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sheharbano96.github.io/final-project/images/2017KC4918/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sheharbano96.github.io/final-project/images/2017KC4918",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1984,
+          "width" : 2500
+        },
+        "on" : "http://0978575b-69b3-4636-91a5-a20202f9ac10"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://47dc3c0b-d4b4-4990-9752-5ea27922fa85",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1988,
+      "width" : 2500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7fc12127-3b73-4ce6-90da-c540f55a1f3f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sheharbano96.github.io/final-project/images/2017KC4917/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sheharbano96.github.io/final-project/images/2017KC4917",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1988,
+          "width" : 2500
+        },
+        "on" : "http://47dc3c0b-d4b4-4990-9752-5ea27922fa85"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ac38aab1-e43e-4914-a83f-6da305f4f6de",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1992,
+      "width" : 2500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3ff8f06d-9fbe-4190-8380-5f857cf39350",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sheharbano96.github.io/final-project/images/2017KC4915/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sheharbano96.github.io/final-project/images/2017KC4915",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1992,
+          "width" : 2500
+        },
+        "on" : "http://ac38aab1-e43e-4914-a83f-6da305f4f6de"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b644cfdb-c7a5-497c-91b0-d6b5485af29e",
+      "@type" : "sc:Canvas",
+      "label" : "The Balayn Pass into Valley of the Ravee",
+      "height" : 1983,
+      "width" : 2500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://570a88c9-78a7-431a-b76f-a9a8e2bcb776",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sheharbano96.github.io/final-project/images/2017KC4894/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sheharbano96.github.io/final-project/images/2017KC4894",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1983,
+          "width" : 2500
+        },
+        "on" : "http://b644cfdb-c7a5-497c-91b0-d6b5485af29e"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
