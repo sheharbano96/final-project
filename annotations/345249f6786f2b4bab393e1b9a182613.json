@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">In 1863 Samuel Bourne (1834-1912) arrived in India. He had left his job as a Nottingham bank clerk in order to develop a new career as a photographer. Bourne undertook three treks to Kashmir and the western Himalayas in 1863, 1864 and 1866, during which he photographed his surroundings extensively.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">In 1863 <strong>Samuel Bourne</strong> (1834-1912) arrived in India. He had left his job as a Nottingham bank clerk in order to develop a new career as a photographer. Bourne undertook three treks to Kashmir and the western Himalayas in 1863, 1864 and 1866, during which he photographed his surroundings extensively.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105984981585337158447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T23:02:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666911756397",
+    "dcterms:modified" : "2022-10-27T23:02:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://sheharbano96.github.io/final-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=51,81,228,292"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M50.90949,81.49385h113.82953v0h113.82953v146.17399v146.17399h-113.82953h-113.82953v-146.17399z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8840b708-fff4-423a-8e97-334b82ce5d65\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f24b85bf-f9f4-49cd-8a7a-66b85a4149ac"
+    } ]
+  } ],
+  "@id" : "https://sheharbano96.github.io/final-project/annotations/345249f6786f2b4bab393e1b9a182613.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
