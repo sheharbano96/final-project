@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "In the British Journal he wrote about the Chumba valley, he noted, \"<span style=\"font-family: 'Helvetica Neue'; font-size: 13px;\">The appearance of Chumba is very picturesque. It is situated in the heart of the mountains, whose grassy slopes wore quite a pastoral aspect, and reminded me of the English lake district minus the lakes. The houses creep up the sides of the mountain, at the foot of which is a beautiful level of green or maidan, about 500 years long by 200 wide. This was formerly the choughan, where the ancient game of &ldquo;hockey on horseback&rdquo; was played. The game is still played in some parts of Northern India and Ladakh. Below this, at a distance of some 1,500 feet, runs the Ravee, a considerable river descending rapidly from the snows above. Chumba is a stronghold of Hindooism; though not a very large place, there could not be less than fifty Hindoo temples in it.&rdquo;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>In the British Journal he wrote about the Chumba valley, he noted, \"<span style=\"font-family: 'Helvetica Neue'; font-size: 13px;\">The appearance of Chumba is very picturesque. It is situated in the heart of the mountains, whose grassy slopes wore quite a pastoral aspect, and reminded me of the English lake district minus the lakes. The houses creep up the sides of the mountain, at the foot of which is a beautiful level of green or maidan, about 500 years long by 200 wide. This was formerly the choughan, where the ancient game of &ldquo;hockey on horseback&rdquo; was played. The game is still played in some parts of Northern India and Ladakh. Below this, at a distance of some 1,500 feet, runs the Ravee, a considerable river descending rapidly from the snows above. Chumba is a stronghold of Hindooism; though not a very large place, there could not be less than fifty Hindoo temples in it.&rdquo;</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105984981585337158447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T23:09:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666912188283",
+    "dcterms:modified" : "2022-10-27T23:09:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://sheharbano96.github.io/final-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=293,141,2014,1602"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M292.6116,140.95958h1006.94728v0h1006.94728v801.22496v801.22496h-1006.94728h-1006.94728v-801.22496z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e32c0a4b-3a9f-4458-b287-ee8ccfd6e5b3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0978575b-69b3-4636-91a5-a20202f9ac10"
+    } ]
+  } ],
+  "@id" : "https://sheharbano96.github.io/final-project/annotations/f9e3869ca8f5bd959190b6fd91ceb73d.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
