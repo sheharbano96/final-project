@@ -43,7 +43,12 @@
         },
         "on" : "http://f24b85bf-f9f4-49cd-8a7a-66b85a4149ac"
       } ],
-      "related" : ""
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1240244679/105984981585337158447/345249f6786f2b4bab393e1b9a182613.json",
+        "label" : "Annotations for canvas Portrait of Samuel Bourne"
+      } ]
     }, {
       "@id" : "http://96d96f01-c1f0-4754-a5c5-03507083f53d",
       "@type" : "sc:Canvas",
@@ -69,7 +74,12 @@
         },
         "on" : "http://96d96f01-c1f0-4754-a5c5-03507083f53d"
       } ],
-      "related" : ""
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1240244679/105984981585337158447/88962811fc3f81a8dae8aa7c18f49538.json",
+        "label" : "Annotations for canvas Chamba View on the Ravi"
+      } ]
     }, {
       "@id" : "http://afded705-20b9-4429-9c06-46c5fe2d6507",
       "@type" : "sc:Canvas",
@@ -95,7 +105,12 @@
         },
         "on" : "http://afded705-20b9-4429-9c06-46c5fe2d6507"
       } ],
-      "related" : ""
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1240244679/105984981585337158447/0ef6fbd93b8ee766b8d56b247d8eab7e.json",
+        "label" : "Annotations for canvas Chamba Bridge on the Ravi"
+      } ]
     }, {
       "@id" : "http://0978575b-69b3-4636-91a5-a20202f9ac10",
       "@type" : "sc:Canvas",
@@ -121,7 +136,12 @@
         },
         "on" : "http://0978575b-69b3-4636-91a5-a20202f9ac10"
       } ],
-      "related" : ""
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1240244679/105984981585337158447/f9e3869ca8f5bd959190b6fd91ceb73d.json",
+        "label" : "Annotations for canvas Chamba Valley"
+      } ]
     }, {
       "@id" : "http://47dc3c0b-d4b4-4990-9752-5ea27922fa85",
       "@type" : "sc:Canvas",
@@ -147,7 +167,12 @@
         },
         "on" : "http://47dc3c0b-d4b4-4990-9752-5ea27922fa85"
       } ],
-      "related" : ""
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1240244679/105984981585337158447/30a5bf0e4ec4d131e89785c9c878f3c7.json",
+        "label" : "Annotations for canvas Chamba Valley"
+      } ]
     }, {
       "@id" : "http://ac38aab1-e43e-4914-a83f-6da305f4f6de",
       "@type" : "sc:Canvas",
@@ -173,7 +198,12 @@
         },
         "on" : "http://ac38aab1-e43e-4914-a83f-6da305f4f6de"
       } ],
-      "related" : ""
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1240244679/105984981585337158447/9d68379ac6811d998c6f65eb148af9f8.json",
+        "label" : "Annotations for canvas Chamba Bridge on the Ravi"
+      } ]
     }, {
       "@id" : "http://b644cfdb-c7a5-497c-91b0-d6b5485af29e",
       "@type" : "sc:Canvas",
@@ -199,7 +229,12 @@
         },
         "on" : "http://b644cfdb-c7a5-497c-91b0-d6b5485af29e"
       } ],
-      "related" : ""
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1240244679/105984981585337158447/510efdedece4f5cea63c2841fcad50bb.json",
+        "label" : "Annotations for canvas The Balayn Pass into Valley of the Ravee"
+      } ]
     } ]
   } ],
   "structures" : [ {
@@ -243,5 +278,10 @@
     "@type" : "sc:Range",
     "label" : "The Balayn Pass into Valley of the Ravee",
     "canvases" : [ "http://570a88c9-78a7-431a-b76f-a9a8e2bcb776" ]
-  } ]
+  } ],
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/105984981585337158447/manifests/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  }
 }
