@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://sheharbano96.github.io/final-project/annotations/f9e3869ca8f5bd959190b6fd91ceb73d.json", "https://sheharbano96.github.io/final-project/annotations/88962811fc3f81a8dae8aa7c18f49538.json" ],
+  "otherContent" : [ "https://sheharbano96.github.io/final-project/annotations/f9e3869ca8f5bd959190b6fd91ceb73d.json", "https://sheharbano96.github.io/final-project/annotations/88962811fc3f81a8dae8aa7c18f49538.json", "https://sheharbano96.github.io/final-project/annotations/345249f6786f2b4bab393e1b9a182613.json" ],
   "@id" : "https://sheharbano96.github.io/final-project/annotations/collection.json",
   "label" : "All annotations loaded in sheharbano96/final-project project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
