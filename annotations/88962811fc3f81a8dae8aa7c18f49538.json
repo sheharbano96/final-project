@@ -1,0 +1,80 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "River",
+      "@type" : "oa:Tag",
+      "chars" : "River"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "River Ravi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>River Ravi</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105984981585337158447",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T22:47:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666910871723",
+    "dcterms:modified" : "2022-10-27T22:47:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://sheharbano96.github.io/final-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1154,1043,681,350"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1153.95079,1042.99121h340.62214v0h340.62214v175.1652v175.1652h-340.62214h-340.62214v-175.1652z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a10f4562-7c6a-498d-89c6-ee22462c9f2c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://96d96f01-c1f0-4754-a5c5-03507083f53d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bridge",
+      "@type" : "oa:Tag",
+      "chars" : "Bridge"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bridge on the River Ravi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Bridge on the River Ravi</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105984981585337158447",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T22:48:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666910895206",
+    "dcterms:modified" : "2022-10-27T22:48:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://sheharbano96.github.io/final-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=269,963,692,524"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M269.19156,962.87522h345.8471v0h345.8471v262.2478v262.2478h-345.8471h-345.8471v-262.2478z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e7d49bcc-a3c2-4918-ae7c-427d2b42e2d4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://96d96f01-c1f0-4754-a5c5-03507083f53d"
+    } ]
+  } ],
+  "@id" : "https://sheharbano96.github.io/final-project/annotations/88962811fc3f81a8dae8aa7c18f49538.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
