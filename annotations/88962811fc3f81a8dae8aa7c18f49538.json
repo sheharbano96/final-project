@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">Bourne began his second trip, during which this photograph was taken, in March 1864. It was to be a nine-month expedition through the Kashmir region.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">Bourne began his second trip, during which this photograph was taken, in March 1864. It was to be a nine-month expedition through the Kashmir region.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105984981585337158447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T23:03:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666911828059",
+    "dcterms:modified" : "2022-10-27T23:03:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://sheharbano96.github.io/final-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=245,82,2091,1691"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M244.80844,81.5993h1045.73814v0h1045.73814v845.70123v845.70123h-1045.73814h-1045.73814v-845.70123z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4e7e6d9a-44ac-48be-ac1e-ee97e5bca89c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://96d96f01-c1f0-4754-a5c5-03507083f53d"
+    } ]
+  } ],
+  "@id" : "https://sheharbano96.github.io/final-project/annotations/88962811fc3f81a8dae8aa7c18f49538.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
