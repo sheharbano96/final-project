@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">Towards the end of the 1860s, Bourne established a partnership with fellow photographer and Englishman Charles Shepherd (fl. 1858-1878) and in the space of a few years Bourne &amp; Shepherd became the pre-eminent photographic firm in India. By the end of 1870 they had three branches, in Simla, Calcutta and Bombay.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: 'Helvetica Neue';\">Towards the end of the 1860s, Bourne established a partnership with fellow photographer and Englishman Charles Shepherd (fl. 1858-1878) and in the space of a few years Bourne &amp; Shepherd became the pre-eminent photographic firm in India. By the end of 1870 they had three branches, in Simla, Calcutta and Bombay.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105984981585337158447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T23:12:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666912354146",
+    "dcterms:modified" : "2022-10-27T23:12:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://sheharbano96.github.io/final-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=235,82,2095,1717"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M234.78383,81.85237h1047.40773v0h1047.40773v858.73989v858.73989h-1047.40773h-1047.40773v-858.73989z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3cb52a59-6038-4e1f-9e8a-7e667f4d4701\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://47dc3c0b-d4b4-4990-9752-5ea27922fa85"
+    } ]
+  } ],
+  "@id" : "https://sheharbano96.github.io/final-project/annotations/30a5bf0e4ec4d131e89785c9c878f3c7.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
