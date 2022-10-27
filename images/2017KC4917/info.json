@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 79,
+    "height" : 63
+  }, {
+    "width" : 157,
+    "height" : 125
+  }, {
+    "width" : 313,
+    "height" : 249
+  }, {
+    "width" : 625,
+    "height" : 497
+  }, {
+    "width" : 1250,
+    "height" : 994
+  }, {
+    "width" : 2500,
+    "height" : 1988
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2500,
+  "@id" : "https://sheharbano96.github.io/final-project/images/2017KC4917",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1988
+}
