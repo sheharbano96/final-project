@@ -5,9 +5,5 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "@type" : "sc:Manifest",
-    "@id" : "https://sheharbano96.github.io/final-project/manifests/manifest.json",
-    "label" : "The Balayn Pass into Valley of the Ravee"
-  } ]
+  "items" : [ ]
 }
