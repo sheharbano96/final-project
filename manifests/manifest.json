@@ -13,6 +13,7 @@
   "sequences" : [ {
     "@id" : "http://b5f9a3ff-87df-482d-a5f8-aef1d23a8e90",
     "@type" : "sc:Sequence",
+    "viewingHint" : "paged",
     "label" : [ {
       "@value" : "Normal Sequence",
       "@language" : "en"
