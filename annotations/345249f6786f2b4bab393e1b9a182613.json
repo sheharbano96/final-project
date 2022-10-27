@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Photographer",
+      "@type" : "oa:Tag",
+      "chars" : "Photographer"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Samuel Bourne",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Samuel Bourne</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105984981585337158447",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T22:47:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666910849181",
+    "dcterms:modified" : "2022-10-27T22:47:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://sheharbano96.github.io/final-project/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=148,135,66,68"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M147.94288,134.89982h32.96837v0h32.96837v34.09666v34.09666h-32.96837h-32.96837v-34.09666z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0b6be45d-ae54-4d25-a69f-617dbf6972c1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f24b85bf-f9f4-49cd-8a7a-66b85a4149ac"
+    } ]
+  } ],
+  "@id" : "https://sheharbano96.github.io/final-project/annotations/345249f6786f2b4bab393e1b9a182613.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
