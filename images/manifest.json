@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 2500,
+    "id" : "https://sheharbano96.github.io/final-project/images/2017KC4927/canvas/",
+    "label" : {
+      "none" : [ "2017KC4927" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://sheharbano96.github.io/final-project/images/2017KC4927/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://sheharbano96.github.io/final-project/images/2017KC4927/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 79,
+              "height" : 62
+            }, {
+              "width" : 157,
+              "height" : 124
+            }, {
+              "width" : 313,
+              "height" : 248
+            }, {
+              "width" : 625,
+              "height" : 496
+            }, {
+              "width" : 1250,
+              "height" : 991
+            }, {
+              "width" : 2500,
+              "height" : 1982
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2500,
+            "@id" : "https://sheharbano96.github.io/final-project/images/2017KC4927",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1982
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2500,
+          "id" : "https://sheharbano96.github.io/final-project/images/2017KC4927/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1982
+        },
+        "target" : "https://sheharbano96.github.io/final-project/images/2017KC4927/canvas/"
+      } ]
+    } ],
+    "height" : 1982
+  }, {
+    "width" : 2500,
     "id" : "https://sheharbano96.github.io/final-project/images/2017KC4925/canvas/",
     "label" : {
       "none" : [ "2017KC4925" ]
